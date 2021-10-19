@@ -111,3 +111,5 @@ Great job! If you comfortably navigated these exercises, then you have the neces
 
 Another topic that you might find useful to explore on your own is the `.gitignore` file. This file specifies files which should be *excluded* from tracking by git. This is handy if there are certain "junk" files that you would prefer not to see in GitHub Desktop. 
 My new line
+
+A secnod line added from github
